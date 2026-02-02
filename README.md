@@ -1,3 +1,6 @@
+At first, I just wanted to make a starry sky. 
+But then I discovered the comet emoji—and some code that lets emojis follow the mouse’s X and Y coordinates.
+And that’s when an evil idea popped into my head… 
 ```
 function setup() {
   createCanvas(600, 400);
